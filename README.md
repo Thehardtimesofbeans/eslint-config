@@ -1,1 +1,1 @@
-# eslint-config
+# vscode-eslint-config
